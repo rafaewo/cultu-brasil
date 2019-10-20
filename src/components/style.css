@@ -6,5 +6,10 @@
 path:hover {
     fill: white;
     opacity: 75%;
+    cursor: pointer;
     transition: 100ms;
+}
+
+span, h1, h3 {
+    cursor: cell;
 }
