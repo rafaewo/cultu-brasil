@@ -48,8 +48,8 @@ export default function App(){
   return(
     <div className='Header'>
       <Particles className='particles' params={particlesOpt} />
-      <Header />
       <div className='flex flex-wrap justify-around items-center'>
+        <Header />
         <Map />
         <Card />
       </div>
