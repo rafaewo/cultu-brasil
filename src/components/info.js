@@ -1,5 +1,5 @@
 const info = [
-    {nome: 'Clique em um estado', main: 'aqui vai ter uma informação interessante', conteudo: 'e aqui mais outras'},
+    {nome: 'nome do estado', main: 'informação interessante aqui', conteudo: 'conteúdo cultural do estado'},
     {nome: 'Roraima (RO)', main: '', conteudo: ''},
     {nome: 'Amapá (AP)', main: '', conteudo: ''},
     {nome: 'Pará (PA)', main: 'berço da cultura marajoara', conteudo: 'Você sabia que no Pará chove 3 dias sim e 3 dias também?'},
