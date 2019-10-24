@@ -5,7 +5,7 @@ import brasil from '../assets/brasil.svg'
 export default function Header() {
 	return(
 		<>
-		<div className='flex flex-wrap justify-center'>
+		<div className='flex flex-wrap justify-center mt3'>
 			
 			<img src={brasil} alt='ícone bandeira do brasil' title='Bandeira bonita' className='w3 mr3'/>
 			<div className='flex flex-wrap flex-column'>

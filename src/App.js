@@ -62,7 +62,7 @@ export default function App(){
             </div>
             <div className='flex justify-start items-center mt3 ml4'>
                 <img src={feather} alt='ícone de uma pena azul' width={31}/>
-                <a href='https://rafaewo.github.io/portfael' target='_blank' rel="noopener noreferrer" className='moon-gray link tracked'>rafaewo</a>
+                <a href='https://rafaewo.github.io/portfael' target='_blank' rel="noopener noreferrer" className='moon-gray hover-green link tracked'>rafaewo</a>
             </div>
         </div>
     );

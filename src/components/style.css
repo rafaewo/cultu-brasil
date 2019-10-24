@@ -4,8 +4,7 @@
 }
 
 path:hover {
-    fill: white;
-    opacity: 77%;
+    fill: rgba(255, 255, 255, 0.7);
     cursor: pointer;
     transition: 100ms;
 }
