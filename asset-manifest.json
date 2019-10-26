@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cultu-brasil/static/css/main.3bd4b6d8.chunk.css",
+    "main.js": "/cultu-brasil/static/js/main.552fab07.chunk.js",
+    "main.js.map": "/cultu-brasil/static/js/main.552fab07.chunk.js.map",
+    "runtime-main.js": "/cultu-brasil/static/js/runtime-main.cf86440a.js",
+    "runtime-main.js.map": "/cultu-brasil/static/js/runtime-main.cf86440a.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/cultu-brasil/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.24e6ed16.chunk.js": "/cultu-brasil/static/js/2.24e6ed16.chunk.js",
+    "static/js/2.24e6ed16.chunk.js.map": "/cultu-brasil/static/js/2.24e6ed16.chunk.js.map",
+    "index.html": "/cultu-brasil/index.html",
+    "precache-manifest.ece3bf241e0fd27199d1b7b114514246.js": "/cultu-brasil/precache-manifest.ece3bf241e0fd27199d1b7b114514246.js",
+    "service-worker.js": "/cultu-brasil/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/cultu-brasil/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.3bd4b6d8.chunk.css.map": "/cultu-brasil/static/css/main.3bd4b6d8.chunk.css.map",
+    "static/media/brasil.svg": "/cultu-brasil/static/media/brasil.0192b4f0.svg",
+    "static/media/feather1.svg": "/cultu-brasil/static/media/feather1.90934a0c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf86440a.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.24e6ed16.chunk.js",
+    "static/css/main.3bd4b6d8.chunk.css",
+    "static/js/main.552fab07.chunk.js"
+  ]
+}
