@@ -7,7 +7,7 @@ export default function Card(props){
 			<h3 className='mb2'>
 				<span className='fw4 f6 white ttu tracked'>{props.main}</span>			
 			</h3>
-			<span className='white code'>{props.conteudo} (colocar animação do ponto piscando no final)</span>		
+			<span className='white code'>{props.conteudo}</span>		
 		</div>	
 	);
 }

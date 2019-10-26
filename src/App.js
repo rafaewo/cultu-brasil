@@ -56,7 +56,7 @@ export default function App(){
         <div className='Header'>
             <Particles className='particles' params={particlesOpt} />
             <div className='flex flex-wrap justify-around items-center'>
-                <Header />
+                <Header returnId={handleCountryChange}/>
                 <Map onCountryChange={handleCountryChange}/>
                 <Card nome={info[estado].nome} main={info[estado].main} conteudo={info[estado].conteudo} />
             </div>

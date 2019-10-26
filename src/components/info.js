@@ -1,8 +1,8 @@
 const info = [
-    {nome: 'nome do estado', main: 'informação interessante aqui', conteudo: 'conteúdo cultural do estado'},
+    {nome: 'Nome do Estado - Sigla', main: 'Uma informação interessante aqui', conteudo: `Esse é o espaço para colocar informações culturais, tem como você me ajudar? Se tiver alguma informação que seja assinatura do seu estado, compartilha comigo que eu vou colocando aqui! Por enquanto o único estado com informação é o Pará, por que será? :)`},
     {nome: 'Roraima (RO)', main: '', conteudo: ''},
     {nome: 'Amapá (AP)', main: '', conteudo: ''},
-    {nome: 'Pará (PA)', main: 'berço da cultura marajoara', conteudo: 'Você sabia que no Pará chove 3 dias sim e 3 dias também?'},
+    {nome: 'Pará (PA)', main: 'berço da cultura marajoara', conteudo: 'A cultura paraense é marcada pela sua rica culinária (Pato no Tucupi, Tacacá, Maniçoba, etc), danças típicas como o Carimbó e uma grande festa religiosa, declarada em 2013 como Patrimônio Cultural da Humanidade pela UNESCO, o Círio de Nazaré. Também é lar da cultura marajoara, reconhecida mundialmente por suas artes em cerâmica.'},
     {nome: 'Amazonas (AM)', main: '', conteudo: ''},
     {nome: 'Maranhão (MA)', main: '', conteudo: ''},
     {nome: 'Piaui (PI)', main: '', conteudo: ''},
@@ -12,7 +12,7 @@ const info = [
     {nome: 'Paraíba (PB)', main: '', conteudo: ''},
     {nome: 'Mato Grosso (MT)', main: '', conteudo: ''},
     {nome: 'Pernambuco (PE)', main: '', conteudo: ''},
-    {nome: 'Acre (AC)', main: 'dinossauros', conteudo: ''},
+    {nome: 'Acre (AC)', main: '', conteudo: ''},
     {nome: 'Rondônia (RO)', main: '', conteudo: ''},
     {nome: 'Bahia (BA)', main: '', conteudo: ''},
     {nome: 'Alagoas (AL)', main: '', conteudo: ''},
@@ -27,7 +27,7 @@ const info = [
     {nome: 'Paraná (PR)', main: '', conteudo: ''},
     {nome: 'Santa Catarina (SC)', main: '', conteudo: ''},
     {nome: 'Rio Grande so Sul (RS)', main: '', conteudo: ''},
-    {nome: 'Curiosidade', main: 'intro', conteudo: 'explicação'}
+    {nome: 'Curiosidade', main: 'você sabia que a floresta amazônica não é o pulmão do mundo?', conteudo: 'Ela tá mais pra umidificador, quando o site ficar pronto eu explico mais ;) PS: difícil clicar nessa animação, né?'}
 ]
 
 export default info;
