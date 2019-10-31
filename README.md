@@ -1,7 +1,7 @@
 ## CultuBrasil
 Projeto informativo sobre a diversidade cultural dos estados brasileiros.
 
-Já parou pra pensar em como o Brasil é grande e quanta gente diferente vive junta embaixo da mesma bandeira? Não seria legal espalhar o conhecimento sobre cada cultura presente em cada estado brasileiro? Se gostou do projeto, talvez você possa ajudar a melhorar ainda mais o conteúdo! Dá pra ver o site [aqui](rafaewo.github.io/cultu-brasil)
+Já parou pra pensar em como o Brasil é grande e quanta gente diferente vive junta embaixo da mesma bandeira? Não seria legal espalhar o conhecimento sobre cada cultura presente em cada estado brasileiro? Se gostou do projeto, talvez você possa ajudar a melhorar ainda mais o conteúdo!
 
 #### Quer contrubuir? é bem simples:
 
