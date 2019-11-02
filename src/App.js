@@ -6,6 +6,7 @@ import Card from './components/Card'
 import info from './components/info'
 import './App.css'
 import feather from './assets/feather1.svg'
+import question from './assets/question.svg'
 
 const particlesOpt = {
     "particles": {
@@ -60,9 +61,15 @@ export default function App(){
                 <Map onCountryChange={handleCountryChange}/>
                 <Card nome={info[estado].nome} main={info[estado].main} conteudo={info[estado].conteudo} />
             </div>
-            <div className='flex justify-start items-center mt3 ml4'>
+            <div className='flex justify-start items-center mv3 ml4'>
                 <img src={feather} alt='ícone de uma pena azul' width={31}/>
-                <a href='https://rafaewo.github.io/portfael' target='_blank' rel="noopener noreferrer" className='moon-gray hover-green link tracked'>rafaewo</a>
+                <a href='https://rafaewo.github.io/portfael' target='_blank' rel="noopener noreferrer" className='f6 moon-gray hover-green tracked link'>rafaewo</a>
+            </div>
+            <div className='bg-black-30 pv1 bg-animate hover-bg-black-50'>
+                <a href='https://github.com/rafaewo/cultu-brasil/blob/master/README.md' target='_blank' rel='noopener noreferrer' className='flex flex-column tc items-center link animation'>
+                    <img src={question} alt='question' title='Como contribuir' className='w2' />
+                    <span className='moon-gray code f7 ttu tracked hover-green mt1'>como contribuir</span>
+                </a>
             </div>
         </div>
     );
