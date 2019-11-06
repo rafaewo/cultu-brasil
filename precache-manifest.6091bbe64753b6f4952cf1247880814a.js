@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27993d683299e4d27ff29cdabf2f6645",
+    "revision": "7d84a35b7e961fc353a525eb57181954",
     "url": "/cultu-brasil/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cultu-brasil/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "b7b6230731a86ec802e3",
+    "revision": "984de39fe3d14ee7164a",
     "url": "/cultu-brasil/static/css/main.65aa6e9d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cultu-brasil/static/js/2.24406b94.chunk.js"
   },
   {
-    "revision": "b7b6230731a86ec802e3",
-    "url": "/cultu-brasil/static/js/main.f7f4ef75.chunk.js"
+    "revision": "984de39fe3d14ee7164a",
+    "url": "/cultu-brasil/static/js/main.d5ab9cc1.chunk.js"
   },
   {
     "revision": "197e6c6de8f8f7e1372c",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cultu-brasil/static/media/feather1.90934a0c.svg"
   },
   {
-    "revision": "0d66ee449891521a6c60232681392588",
-    "url": "/cultu-brasil/static/media/question.0d66ee44.svg"
+    "revision": "41b88e152c894561afc0999c7a1c95bb",
+    "url": "/cultu-brasil/static/media/forms.41b88e15.svg"
   }
 ]);

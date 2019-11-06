@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cultu-brasil/precache-manifest.0c44da4fd3641179e8f4c71fbd6ab19b.js"
+  "/cultu-brasil/precache-manifest.6091bbe64753b6f4952cf1247880814a.js"
 );
 
 self.addEventListener('message', (event) => {
