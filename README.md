@@ -8,7 +8,7 @@ Já parou pra pensar em como o Brasil é grande e quanta gente diferente vive ju
 Você pode ajudar de diversas formas, fornecendo informações culturais dos estados, reportando bugs e até deixando o código mais bonito (se quiser), tenta uma dessas opções:
 - Falando comigo, por qualquer meio / rede social
 - Fazendo um pull request
-- Por meio de issues, sinais de fumaça, código morse e outros meios que você achar melhor :)
+- Abrindo uma issue, por meio de sinais de fumaça, código morse e outros que você achar conveniente :)
 
 #### Formatação das informações
 
