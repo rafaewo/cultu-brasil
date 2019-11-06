@@ -6,7 +6,7 @@ import Card from './components/Card'
 import info from './components/info'
 import './App.css'
 import feather from './assets/feather1.svg'
-import question from './assets/question.svg'
+import forms from './assets/forms.svg'
 
 const particlesOpt = {
     "particles": {
@@ -66,9 +66,9 @@ export default function App(){
                 <a href='https://rafaewo.github.io/portfael' target='_blank' rel="noopener noreferrer" className='f6 moon-gray hover-green tracked link'>rafaewo</a>
             </div>
             <div className='bg-black-30 pv1 bg-animate hover-bg-black-50'>
-                <a href='https://github.com/rafaewo/cultu-brasil/blob/master/README.md' target='_blank' rel='noopener noreferrer' className='flex flex-column tc items-center link animation'>
-                    <img src={question} alt='question' title='Como contribuir' className='w2' />
-                    <span className='moon-gray code f7 ttu tracked hover-green mt1'>como contribuir</span>
+                <a href='https://docs.google.com/forms/d/e/1FAIpQLSfh4ECMKxu52zcUmHpMZ5upqRqQNus4fwMJQ6hIfxA9mm54_w/viewform?usp=sf_link' target='_blank' rel='noopener noreferrer' className='flex flex-column tc items-center link animation'>
+                    <img src={forms} alt='question' title='Como contribuir' className='w2' />
+                    <span className='moon-gray code f7 ttu tracked hover-green mt1'>formulário para contribuir</span>
                 </a>
             </div>
         </div>
